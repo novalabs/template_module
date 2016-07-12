@@ -3,7 +3,7 @@
   "description": "XXX",
   "chip": "STM32F303CB",
   "required_packages": [
-    "led",
+    "led"
   ],
   "chibios_components": [
     "rt",
